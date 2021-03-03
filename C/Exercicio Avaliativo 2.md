@@ -221,3 +221,33 @@ int main()
 6. Faça um programa que permita entrar com o nome e o salário bruto de 10 pessoas. Após ler os
 dados, imprimir o nome e o valor da alíquota do imposto de renda calculado conforme a tabela a
 seguir:
+
+```c
+int main()
+{
+    float salario;
+    int i;
+    char nome[200];
+
+    for (i = 0; i < 10; i++)
+    {
+        printf("\nNome......: ");
+        scanf("%s", &nome);
+        printf("Salario....: ");
+        scanf("%f", &salario);
+
+        if (salario < 1300)
+        {
+            printf("\nIsento");
+        }
+        else if (salario >= 1300 && salario < 2300)
+        {
+            printf("\nImposto de renda = %.2f", salario * 0.1);
+        }
+        else if (salario >= 2300)
+        {
+            printf("\nImposto de renda = %.2f", salario * 0.15);
+        }
+    }
+}
+```
