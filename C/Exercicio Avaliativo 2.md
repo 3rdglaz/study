@@ -152,7 +152,8 @@ programa deve calcular e imprimir:
 • O total de consumo para os três tipos de consumidor
  • Amédia de consumo dos tipos 1 e 2
 
-´´´c
+```c
+
 int main()
 {
     int consumidor, nC, media;
@@ -190,7 +191,7 @@ int main()
     printf("\nO total de Consumo de energia: %f", totalC);
     printf("\nA media entre Residencial e Comercial: %f", mediaKw / media);
 }
-´´´
+```
 
 5. Faça um programa em C que permita entrar com o nome, a idade e o sexo de 20 pessoas. O
 programa deve imprimir o nome da pessoa se ela for do sexo masculino e tiver mais de 21 anos.
