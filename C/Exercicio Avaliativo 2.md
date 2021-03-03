@@ -196,6 +196,28 @@ int main()
 5. Faça um programa em C que permita entrar com o nome, a idade e o sexo de 20 pessoas. O
 programa deve imprimir o nome da pessoa se ela for do sexo masculino e tiver mais de 21 anos.
 
+```c
+int main()
+{
+    int idade, i, sexo;
+    char nome[200];
+
+    for (i = 0; i < 20; i++)
+    {
+        printf("\nNome....: ");
+        scanf("%s", &nome);
+        printf("Idade....: ");
+        scanf("%i", &idade);
+        printf("[1]masc - [2]fem: ");
+        scanf("%i", &sexo);
+        if (idade > 21 && sexo == 1)
+        {
+            printf("\nNome: %s", nome);
+        }
+    }
+}
+```
+
 6. Faça um programa que permita entrar com o nome e o salário bruto de 10 pessoas. Após ler os
 dados, imprimir o nome e o valor da alíquota do imposto de renda calculado conforme a tabela a
 seguir:
