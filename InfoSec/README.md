@@ -9,6 +9,7 @@ Catálogo de anotação, criação de manuais, apendice de artigos e controle de
 
  1. Fundamentos da InfoSec - prof. Paulo Gontijo
 	- Conceito Básico
+		- [Introdução a Segurança da Informação e Cibernética](https://github.com/nikao8/study/blob/main/InfoSec/Introdu%C3%A7%C3%A3o%20a%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20e%20Cibern%C3%A9tica.md)   
 	- Introdução a Segurança
 	- Conceito Básico Rede e Linux
 	- Aplicações
