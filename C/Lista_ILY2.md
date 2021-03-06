@@ -108,11 +108,13 @@ char convert(char x[100])
 void main()
 {
     char pal[100], saida[100];
+    int ctgm;
     printf("Digite uma palavra: ");
     fflush(stdin);
     fgets(pal, 100, stdin);
+    ctgm = strlen(pal);
+    printf("Substituin %i caracteres...\n", ctgm - 1);
     printf("Convertendo . . . : ");
-
     printf(convert(pal));
 }
 ```
