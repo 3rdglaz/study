@@ -94,7 +94,27 @@ void main()
 5 - Implemente um programa que leia uma mensagem e um caractere. Após a leitura, o programa deve, por meio de função, retirar todas as ocorrências do caractere informado na mensagem colocando * em seu lugar. A função deve também retornar o total de caracteres retirados. Ao final, o programa deve imprimir a frase ajustada e a quantidade de caracteres substituídos.
 
 ```c
+#include <stdlib.h>
 
+char convert(char x[100])
+{
+    int i;
+    for (i = 0; i < (strlen(x)) - 1; i++)
+    {
+        x[i] = '*';
+    }
+    return printf("%s", x);
+}
+void main()
+{
+    char pal[100], saida[100];
+    printf("Digite uma palavra: ");
+    fflush(stdin);
+    fgets(pal, 100, stdin);
+    printf("Convertendo . . . : ");
+
+    printf(convert(pal));
+}
 ```
 
 6- Escreva um função recursiva para calcular o máximo divisor comum de dois números
