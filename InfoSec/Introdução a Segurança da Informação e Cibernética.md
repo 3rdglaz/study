@@ -1,5 +1,5 @@
 # Introdução a Segurança da Informação e Cibernética
-## Modulo 1
+## Modulo 1 | Aula 1.1 a 1.3
 
 ### Pilares da segurança da informação
   - Disponibilidade
