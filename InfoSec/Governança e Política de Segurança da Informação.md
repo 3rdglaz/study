@@ -22,4 +22,4 @@ __ISO 27002 + NIST 800-53 + COBIT + ITIL:__ Configuram referênciais com detalhe
   6. Risco
   > Probabilidade x Impacto.
   
-![Politicas](https://github.com/3rdglaz/study/blob/main/InfoSec/allinone.png)
+![Politicas](https://user-images.githubusercontent.com/67568578/110250730-9f855900-7f5b-11eb-91a1-2183373a6a57.png)
