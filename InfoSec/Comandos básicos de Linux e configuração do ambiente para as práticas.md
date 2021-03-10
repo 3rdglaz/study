@@ -65,6 +65,6 @@ __Segue uma listagem de comandos utilizados para subir serviços no ubunto serve
   > Atualização do pacote 'apt'
   
   - apt install bind9
-  - Servidor DNS (Necessita de: 'apt update' e 'apt upgrade')
+  > Servidor DNS (Necessita de: 'apt update' e 'apt upgrade')
   
 
