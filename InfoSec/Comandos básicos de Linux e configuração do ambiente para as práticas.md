@@ -3,20 +3,28 @@
 
 __Segue uma listagem de comandos utilizados para subir serviços no ubunto server:__
 
-  - apt install net-tools
-  > Pacote de ferramentas para controle para controle de rede. (Ex's: ifconfig, arp, hostname, netstat, route...)
-  - apt install vsftpd
-  > Servidor FTP
-  - apt install apache2
-  > Servidor HTTP
-  - apt install mysql-server
-  > Servidor de banco de dados  
-  - create user teste;
-  > Criar usuario no mysql server
-  - grant all on . to 'teste'@'%';
-  > Dando todas permissões ao usuario teste no mysql  
-  - CREATE USER 'user'@'localhost' IDENTIFIED BY 'password';
-  > Criando usuário com senha 
+  
+ 1. Pacote de ferramentas para controle para controle de rede. (Ex's: ifconfig, arp, hostname, netstat, route...)
+
+      >  apt install net-tools
+ 
+ 2. Servidor FTP
+
+      > apt install vsftpd
+ 3. Servidor HTTP 
+ 
+      > apt install apache2
+ 4. Servidor DB
+ 
+      > apt install mysql-server
+      >>  create user teste; // cria user teste
+      >>  
+      >>  grant all on *.* to 'teste'@'%'; // garante permissão completa ao usuário 'teste'
+      >>  
+      >>  CREATE USER 'user'@'localhost' IDENTIFIED BY 'password'; // cria 'user' com senha 'password'
+       
+### resumo raso mysql
+
   >ALL PRIVILEGES: Assigns all permissions on the chosen database.
   
   >CREATE: This privilege allows you to create new tables or databases.
