@@ -16,7 +16,7 @@ Catálogo de anotação, criação de manuais, apendice de artigos e controle de
 		- [Infraestrutura](https://github.com/3rdglaz/study/blob/main/InfoSec/Infraestrutura%20e%20plataformas.md)
 	- Conceito Básico Rede e Linux
 		- [Conceitos básicos de redes de computadores](https://github.com/3rdglaz/study/blob/main/InfoSec/Conceitos%20b%C3%A1sicos%20de%20redes%20de%20computadores.md)
-		- [Comandos básicos de Linux e configuração do ubunto server](https://github.com/3rdglaz/study/blob/main/InfoSec/Comandos%20b%C3%A1sicos%20de%20Linux%20e%20configura%C3%A7%C3%A3o%20do%20ambiente%20para%20as%20pr%C3%A1ticas.md)
+		- [Comandos básicos de Linux e configuração do ubuntu server](https://github.com/3rdglaz/study/blob/main/InfoSec/Comandos%20b%C3%A1sicos%20de%20Linux%20e%20configura%C3%A7%C3%A3o%20do%20ambiente%20para%20as%20pr%C3%A1ticas.md)
 	- Aplicações
  2. Segurança Infraestrutura - prof. Maximiliano Jacomo
 	- Segurança em Camadas
