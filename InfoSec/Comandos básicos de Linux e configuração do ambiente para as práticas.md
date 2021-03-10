@@ -35,9 +35,10 @@ __Segue uma listagem de comandos utilizados para subir serviços no ubunto serve
       
       - Logar com o usuario teste no mysql
       
-      >  mysql -uteste -p 
-      
-      
+       ```sh
+       mysql -uteste -p 
+       ```
+            
       - Editar acesso de qualquer end ip
       
       ```sh
@@ -97,17 +98,23 @@ __Segue uma listagem de comandos utilizados para subir serviços no ubunto serve
    apt install docker.io
    ```
 
-        - Inserindo phpmyadmin nos conteiners docker  
+   - Inserindo phpmyadmin nos conteiners docker  
         
-        > docker pull phpmyadmin/phpmyadmin
+   ```sh
+   docker pull phpmyadmin/phpmyadmin
+   ```
   
-        - Inserindo Wordpress nos conteiners docker
+   - Inserindo Wordpress nos conteiners docker
         
-        > docker pull wordpress
+   ```sh
+   docker pull wordpress
+   ```
   
-        - Aplicando phpmyadmin no docker. (IP 192.168.0.1 a fim de exemplo | Subistituir pelo ip do server ubunto)
+   - Aplicando phpmyadmin no docker. (IP 192.168.0.1 a fim de exemplo | Subistituir pelo ip do server ubunto)
         
-        > docker run --name phpmyadmin -d -e PMA_HOST=192.168.0.1 -p 8080:80 phpmyadmin/phpmyadmin 
+   ```sh
+   docker run --name phpmyadmin -d -e PMA_HOST=192.168.0.1 -p 8080:80 phpmyadmin/phpmyadmin 
+   ```
    
   
   7. Atualização do pacote 'apt'
@@ -118,9 +125,9 @@ __Segue uma listagem de comandos utilizados para subir serviços no ubunto serve
 
  8. Servidor DNS (Necessita de: 'apt update' e 'apt upgrade')
   
-   ```sh
-   apt install bind9
-    ```
+  ```sh
+  apt install bind9
+  ```
   
   
 
