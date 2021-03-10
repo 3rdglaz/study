@@ -149,3 +149,15 @@ void main()
 }
 ```
 
+7. Faça um programa que verifique quantas vezes um número é divisível por outro. A função deve receber dois parâmetros, o dividendo e o divisor. Ao ler o divisor, é importante verificar se ele é menor que o dividendo. Ao final imprima o resultado.
+
+8. Construa um programa que leia um valor inteiro e retorne se a raiz desse número é exata ou não. Escreva uma função para fazer a validação. Ao final imprima o resultado.
+
+9. A matriz dados contém na 1ª coluna a matrícula do aluno; na 2ª, o sexo (0 para feminino e 1 para masculino); na 3ª, o código do curso, e na 4ª, o CR (coeficiente de rendimento). Faça um programa que armazene esses dados sabendo-se que o código do curso é uma parte da matrícula: aascccnnn (aa ano, s semestre, ccc código do curso e nnn matrícula no curso). Além disso, um grupo empresarial resolveu premiar a aluna com CR mais alto de um curso cujo código deverá ser digitado. Suponha 10 alunos e que o CR é umnº inteiro.
+
+10. Supondo que uma matriz apresente em cada linha o total de produtos vendidos ao mês por uma loja que trabalha com cinco tipos diferentes de produtos, construir um programa que leia esse total e, ao final, apresente o total de produtos vendidos em cada mês e o total de vendas por ano por produto.
+
+11. Escreva um software que gerencie uma cadeia de estoques de 5 produtos em 5 armazéns de uma empresa, conforme figura abaixo:
+![image](https://user-images.githubusercontent.com/17899929/110713116-1e8ac380-81e0-11eb-9823-3a8df912300b.png)
+
+O programa deverá ler o número da linha e da coluna, correspondente ao produto no armazém, e a quantidade a ser retirada do estoque. Caso a quantidade solicitada for menor ou igual a quantidade em estoque, o programa deverá emitir uma mensagem de atendimento e dar baixa no estoque. Do contrário
