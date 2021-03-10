@@ -6,22 +6,32 @@ __Segue uma listagem de comandos utilizados para subir serviços no ubunto serve
   
  1. Pacote de ferramentas para controle para controle de rede. (Ex's: ifconfig, arp, hostname, netstat, route...)
 
-        apt install net-tools
+         ```sh
+         apt install net-tools
+          ```
  
  2. Servidor FTP
 
-      > apt install vsftpd
+          ```sh
+          apt install vsftpd
+           ```
  3. Servidor HTTP 
  
-      > apt install apache2
+          ```sh
+          apt install apache2
+           ```
  4. Servidor DB
  
-      > apt install mysql-server
-      >>  create user teste; // cria user teste
-      >>  
-      >>  grant all on *.* to 'teste'@'%'; // garante permissão completa ao usuário 'teste'
-      >>  
-      >>  CREATE USER 'user'@'localhost' IDENTIFIED BY 'password'; // cria 'user' com senha 'password'
+       ```sh
+       apt install mysql-server
+       ```
+         
+         
+         create user teste; // cria user teste
+           
+         grant all on *.* to 'teste'@'%'; // garante permissão completa ao usuário 'teste'
+           
+         CREATE USER 'user'@'localhost' IDENTIFIED BY 'password'; // cria 'user' com senha 'password'
       
       - Logar com o usuario teste no mysql
       
@@ -30,13 +40,17 @@ __Segue uma listagem de comandos utilizados para subir serviços no ubunto serve
       
       - Editar acesso de qualquer end ip
       
-      > vim /etc/mysqld/mysql.confi.d/mysqld.cnf(editado)
+      ```sh
+      vim /etc/mysqld/mysql.confi.d/mysqld.cnf(editado)
+      ```
       
-      > bind-addrs = 0.0.0.0 // mudar 
+         bind-addrs = 0.0.0.0 // mudar 
       
       - reiniciar o serviço DB
       
-      >/etc/init.d/mysql restart
+       ```sh
+       /etc/init.d/mysql restart
+       ```
               
 ### Resumo raso mysql
 
