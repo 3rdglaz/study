@@ -38,7 +38,7 @@ __Segue uma listagem de comandos utilizados para subir serviços no ubunto serve
       
       >/etc/init.d/mysql restart
               
-### resumo raso mysql
+### Resumo raso mysql
 
   >ALL PRIVILEGES: Assigns all permissions on the chosen database.
   
