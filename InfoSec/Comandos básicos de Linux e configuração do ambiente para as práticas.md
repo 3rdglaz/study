@@ -6,25 +6,25 @@ __Segue uma listagem de comandos utilizados para subir serviços no ubunto serve
   
  1. Pacote de ferramentas para controle para controle de rede. (Ex's: ifconfig, arp, hostname, netstat, route...)
 
-         ```sh
-         apt install net-tools
-          ```
+     ```sh
+     apt install net-tools
+     ```
  
  2. Servidor FTP
 
-          ```sh
-          apt install vsftpd
-           ```
+    ```sh
+    apt install vsftpd
+    ```
  3. Servidor HTTP 
  
-          ```sh
-          apt install apache2
-           ```
+    ```sh
+    apt install apache2
+    ```
  4. Servidor DB
  
-       ```sh
-       apt install mysql-server
-       ```
+    ```sh
+    apt install mysql-server
+    ```
          
          
          create user teste; // cria user teste
@@ -83,13 +83,19 @@ __Segue uma listagem de comandos utilizados para subir serviços no ubunto serve
 
  5. Agente de transferência de e-mails / Cliente e-mail
   
-  > apt install postfix
+   ```sh
+   apt install postfix
+   ```
   
  6. Conteiners Docker
  
-  > apt install docker
-  >
-  > apt install docker.io
+   ```sh
+   apt install docker
+   ```
+  
+   ```sh
+   apt install docker.io
+   ```
 
         - Inserindo phpmyadmin nos conteiners docker  
         
