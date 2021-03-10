@@ -6,7 +6,7 @@ __Segue uma listagem de comandos utilizados para subir serviços no ubunto serve
   
  1. Pacote de ferramentas para controle para controle de rede. (Ex's: ifconfig, arp, hostname, netstat, route...)
 
-      >  apt install net-tools
+        apt install net-tools
  
  2. Servidor FTP
 
