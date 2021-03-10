@@ -18,7 +18,9 @@ __Segue uma listagem de comandos utilizados para subir serviços no ubunto serve
  
       > apt install mysql-server
       >>  create user teste; // cria user teste
+      >>  
       >>  grant all on *.* to 'teste'@'%'; // garante permissão completa ao usuário 'teste'
+      >>  
       >>  CREATE USER 'user'@'localhost' IDENTIFIED BY 'password'; // cria 'user' com senha 'password'
        
 
