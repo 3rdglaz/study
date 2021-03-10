@@ -15,6 +15,7 @@ Catálogo de anotação, criação de manuais, apendice de artigos e controle de
 	- Introdução a Segurança
 		- [Infraestrutura](https://github.com/3rdglaz/study/blob/main/InfoSec/Infraestrutura%20e%20plataformas.md)
 	- Conceito Básico Rede e Linux
+		- [Conceitos básicos de redes de computadores](https://github.com/3rdglaz/study/blob/main/InfoSec/Conceitos%20b%C3%A1sicos%20de%20redes%20de%20computadores.md)
 	- Aplicações
  2. Segurança Infraestrutura - prof. Maximiliano Jacomo
 	- Segurança em Camadas
