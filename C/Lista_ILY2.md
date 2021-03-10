@@ -2,7 +2,7 @@
 
   Aula 05/03/2021
 
-1 - faça um alg. que leia 3 números e para cada um deles imprimir o seu dobro. somente será valido se realizado através de uma função e o resultado impresso no fim do alg.
+1. faça um alg. que leia 3 números e para cada um deles imprimir o seu dobro. somente será valido se realizado através de uma função e o resultado impresso no fim do alg.
 
 ```c
 int dobro(int x)
@@ -26,7 +26,7 @@ void main()
 }
 ```
 
-2 - Faça um programa que receba as notas de três provas e calcule a média. Para o cálculo, escreva uma função. O programa deve imprimir a média ao final.
+2. Faça um programa que receba as notas de três provas e calcule a média. Para o cálculo, escreva uma função. O programa deve imprimir a média ao final.
 
 ```c
 int media(int x, int y, int z)
@@ -48,7 +48,7 @@ void main()
 }
 ```
 
-3 - Faça um programa que leia o saldo e o % de reajuste de uma aplicação financeira e imprimir o novo saldo após o reajuste. O cálculo deve ser feito por uma função.
+3. Faça um programa que leia o saldo e o % de reajuste de uma aplicação financeira e imprimir o novo saldo após o reajuste. O cálculo deve ser feito por uma função.
 
 ```c
 float reajuste(float x, float y)
@@ -69,7 +69,7 @@ void main()
 }
 ```
 
-4 - Na pandemia a economia esta baixa..., os comerciantes estão procurando aumentar suas vendas oferecendo desconto. Faça um programa que permita entrar com o valor de um produto e o percentual de desconto e imprimir o novo valor com base no percentual informado. Para fazer o cálculo, implemente uma função.   
+4. Na pandemia a economia esta baixa..., os comerciantes estão procurando aumentar suas vendas oferecendo desconto. Faça um programa que permita entrar com o valor de um produto e o percentual de desconto e imprimir o novo valor com base no percentual informado. Para fazer o cálculo, implemente uma função.   
 
 ```c
 #include <stdlib.h>
@@ -91,7 +91,7 @@ void main()
 }
 ```
 
-5 - Implemente um programa que leia uma mensagem e um caractere. Após a leitura, o programa deve, por meio de função, retirar todas as ocorrências do caractere informado na mensagem colocando * em seu lugar. A função deve também retornar o total de caracteres retirados. Ao final, o programa deve imprimir a frase ajustada e a quantidade de caracteres substituídos.
+5. Implemente um programa que leia uma mensagem e um caractere. Após a leitura, o programa deve, por meio de função, retirar todas as ocorrências do caractere informado na mensagem colocando * em seu lugar. A função deve também retornar o total de caracteres retirados. Ao final, o programa deve imprimir a frase ajustada e a quantidade de caracteres substituídos.
 
 ```c
 #include <stdlib.h>
@@ -119,13 +119,13 @@ void main()
 }
 ```
 
-6- Escreva um função recursiva para calcular o máximo divisor comum de dois números
+6. Escreva um função recursiva para calcular o máximo divisor comum de dois números
 
 ```c
 
 ```
 
-7- Faça um programa que leia os catetos (dois catetos) de um triângulo retângulo e imprima a hipotenusa. Para fazer o cálculo,
+7. Faça um programa que leia os catetos (dois catetos) de um triângulo retângulo e imprima a hipotenusa. Para fazer o cálculo,
 implemente uma função. Utilize a fórmula a seguir. o menor valor e incrementada em uma unidade até que seja igual ao valor final.
 
 ```c
