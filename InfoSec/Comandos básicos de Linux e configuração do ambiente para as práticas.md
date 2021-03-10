@@ -112,11 +112,15 @@ __Segue uma listagem de comandos utilizados para subir serviços no ubunto serve
   
   7. Atualização do pacote 'apt'
   
-  > apt update && upgrade
+   ```sh
+   apt update && upgrade
+   ```
 
  8. Servidor DNS (Necessita de: 'apt update' e 'apt upgrade')
   
-  > apt install bind9
+   ```sh
+   apt install bind9
+    ```
   
   
 
