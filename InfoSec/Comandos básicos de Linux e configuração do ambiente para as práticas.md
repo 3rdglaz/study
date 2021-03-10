@@ -1,7 +1,7 @@
 # Comandos básicos de Linux e configuração do ambiente para as práticas
 ## Módulo 1
 
-__Segue uma listagem de comandos utilizados para subir serviços no ubunto server:__
+__Segue uma listagem de comandos utilizados para subir serviços no ubuntu server:__
 
   
  1. Pacote de ferramentas para controle para controle de rede. (Ex's: ifconfig, arp, hostname, netstat, route...)
@@ -110,7 +110,7 @@ _____________________
    docker pull wordpress
    ```
   
-   - Aplicando phpmyadmin no docker. (IP 192.168.0.1 a fim de exemplo | Subistituir pelo ip do server ubunto)
+   - Aplicando phpmyadmin no docker. (IP 192.168.0.1 a fim de exemplo | Subistituir pelo ip do server ubuntu)
         
    ```sh
    docker run --name phpmyadmin -d -e PMA_HOST=192.168.0.1 -p 8080:80 phpmyadmin/phpmyadmin 
