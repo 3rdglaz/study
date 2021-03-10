@@ -4,3 +4,6 @@
 __Modelo OSI:__
 ![ModeloOSI](https://user-images.githubusercontent.com/67568578/110685532-26853c00-81bd-11eb-9680-f9f41f7df939.png)
 
+__Pacote no Modelo OSI:__
+![DadosOSI](https://user-images.githubusercontent.com/67568578/110685775-677d5080-81bd-11eb-8596-00c230e6b404.png)
+
