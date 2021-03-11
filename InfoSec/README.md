@@ -14,7 +14,7 @@ Catálogo de anotação, criação de manuais, apendice de artigos e controle de
 		- [Privacidade de dados, segurança de pessoas e engenharia social](https://github.com/3rdglaz/study/blob/main/InfoSec/Privacidade%20de%20dados,%20seguran%C3%A7a%20de%20pessoas%20e%20engenharia%20social.md#privacidade-de-dados-seguran%C3%A7a-de-pessoas-e-engenharia-social)
 	- Introdução a Segurança
 		- [Conceitos básicos de redes de computadores](https://github.com/3rdglaz/study/blob/main/InfoSec/Conceitos%20b%C3%A1sicos%20de%20redes%20de%20computadores.md)
-		- [Infraestrutura](https://github.com/3rdglaz/study/blob/main/InfoSec/Infraestrutura%20e%20plataformas.md)
+		- [Ativos de Segurança e Infraestrutura](https://github.com/3rdglaz/study/blob/main/InfoSec/Infraestrutura%20e%20plataformas.md)
 	- Conceito Básico Rede e Linux
 		- [Comandos básicos de Linux e configuração do ubuntu server](https://github.com/3rdglaz/study/blob/main/InfoSec/Comandos%20b%C3%A1sicos%20de%20Linux%20e%20configura%C3%A7%C3%A3o%20do%20ambiente%20para%20as%20pr%C3%A1ticas.md)
 	- Aplicações
