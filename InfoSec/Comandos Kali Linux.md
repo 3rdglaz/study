@@ -19,7 +19,7 @@ iptables -A INPUT -j LOG --log-prefix "SCAN NMAP: "
 tail -f /var/log/kern.log | grep -v "DPT=22"
 
 __________________________________
-fingerprint: reconhecer infos do servidor, versão, config ativa, etc. Requisita 'x' avalia return 'y' >> entende as config.
+__Fingerprint:__ reconhecer infos do servidor, versão, config ativa, etc. Requisita 'x' avalia return 'y' >> entende as config.
 ___________________________________
 telnet <ip> <porta> // conecta a <ip><p> + get pega info
 ____________________________________
@@ -56,7 +56,7 @@ __iptables:__
 
 -----------------------------------
 
-parametros:
+_Parametros:_
   
   -p = protocolo
   
