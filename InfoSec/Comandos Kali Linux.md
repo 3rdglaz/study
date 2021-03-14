@@ -24,7 +24,8 @@ ___________________________________
 telnet <ip> <porta> // conecta a <ip><p> + get pega info
 ____________________________________
 
-iptable 
+__iptables:__
+
   -A = append, adiciona 1 ou + regra
   
   -C = check, se existe ou não a regra
