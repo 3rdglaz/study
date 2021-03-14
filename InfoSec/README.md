@@ -15,12 +15,12 @@ Catálogo de anotação, criação de manuais, apendice de artigos e controle de
 	- Introdução a Segurança
 		- [Ataque a redes de computadores - Conceitos](https://github.com/3rdglaz/study/blob/main/InfoSec/Ataque%20a%20redes%20de%20computadores%20-%20Conceitos.md)
 		- [Ativos de Segurança e Infraestrutura](https://github.com/3rdglaz/study/blob/main/InfoSec/Infraestrutura%20e%20plataformas.md)
-		- [Segurança de arquitetura, aplicações Web e APIs](https://github.com/3rdglaz/study/blob/main/InfoSec/Seguran%C3%A7a%20de%20arquitetura%2C%20aplica%C3%A7%C3%B5es%20Web%20e%20APIs.md)
 	- Conceito Básico Rede e Linux
 		- [Comandos básicos de Linux e configuração do ubuntu server](https://github.com/3rdglaz/study/blob/main/InfoSec/Comandos%20b%C3%A1sicos%20de%20Linux%20e%20configura%C3%A7%C3%A3o%20do%20ambiente%20para%20as%20pr%C3%A1ticas.md)
 		- [Conceitos básicos de redes de computadores](https://github.com/3rdglaz/study/blob/main/InfoSec/Conceitos%20b%C3%A1sicos%20de%20redes%20de%20computadores.md)
 		- [Comandos Kali Linux](https://github.com/3rdglaz/study/blob/main/InfoSec/Comandos%20Kali%20Linux.md)
 	- Aplicações
+		- [Segurança de arquitetura, aplicações Web e APIs](https://github.com/3rdglaz/study/blob/main/InfoSec/Seguran%C3%A7a%20de%20arquitetura%2C%20aplica%C3%A7%C3%B5es%20Web%20e%20APIs.md)
  2. Segurança Infraestrutura - prof. Maximiliano Jacomo
 	- Segurança em Camadas
 	- Defesa em Profundidade
