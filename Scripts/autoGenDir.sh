@@ -1,5 +1,5 @@
 #! /bin/bash
-if [ -z "$1"]
+if [ -z "$1" ]
 then
 	echo "Uso: ./autoGenDir.sh <Nome>"
 	exit 1
