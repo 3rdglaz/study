@@ -22,9 +22,9 @@ Catálogo de anotação, criação de manuais, apendice de artigos e controle de
 	- Aplicações
 		- [Segurança de arquitetura, aplicações Web e APIs](https://github.com/3rdglaz/study/blob/main/InfoSec/Seguran%C3%A7a%20de%20arquitetura%2C%20aplica%C3%A7%C3%B5es%20Web%20e%20APIs.md)
  2. Segurança Infraestrutura - prof. Maximiliano Jacomo
+	- Defesa em Profundidade
 	- Segurança em Camadas
 		- [Configuração PacketTracer](https://github.com/3rdglaz/study/blob/main/InfoSec/PacketTracer.md)	
-	- Defesa em Profundidade
 	- Ferramentas de Segurança
 	- Conceitos Básico Mecanismos de Proteçao
  3. Auditoria e Testes de Invasão - prof. Maximiliano Jacomo
