@@ -24,3 +24,24 @@ No packet tracer rodar:
 
 
 Testar com ping. Resultado esperado: máquina 192.168.2.4 não comunica com outras.
+
+
+-------------------------------
+
+Aula 2.4.1
+
+  - 1 Server Firewall 192.168.0.254/gateway e DNS igual
+  - 1 Switch
+  - 3 máquina -DNS e Gateway (IP Firewall)
+    - 192.168.0.1[PC 0] 
+    - 192.168.0.2[PC 1]
+    - 192.168.0.3[PC 2]
+
+Firewall allow :
+  - 192.168.0.1
+  - 192.168.0.3
+  
+Firewall deny:
+  - 192.168.0.2
+
+-----------------------------------------------
