@@ -1,5 +1,5 @@
 # Comandos de instalaçãoo e configuração dO IDS(suricata) e IPS(Sophos, fail2ban)
-## Módulo 1 | Aula 2.4.1 a 2.5.2
+## Módulo 1 | Aula 2.5.1 a 2.5.2
 
 ### Webmin sophos
 ```sh
