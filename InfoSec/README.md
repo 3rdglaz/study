@@ -26,6 +26,7 @@ Catálogo de anotação, criação de manuais, apendice de artigos e controle de
 		- [Defesa em Profundidade - Conceitos](https://github.com/3rdglaz/study/blob/main/InfoSec/Defesa%20em%20Profundidade.md)
 	- Segurança em Camadas
 		- [Configuração PacketTracer](https://github.com/3rdglaz/study/blob/main/InfoSec/PacketTracer.md)	
+		- [Configuração IDS(Suricata) e IPS(Fail2Ban)+Sophos]()
 	- Ferramentas de Segurança
 	- Conceitos Básico Mecanismos de Proteçao
  3. Auditoria e Testes de Invasão - prof. Maximiliano Jacomo
