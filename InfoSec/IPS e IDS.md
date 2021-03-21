@@ -11,15 +11,17 @@
 sudo apt install fail2ban
 
 vim /etc/fail2ban/jail.local
-
-foco em
-
+```
+ir para:
+```sh
 bantime=apos o numero de tentativas IP ban
 
 findtime= tempo entre tentativas
 
 maxretry = Numero de tentativas
-
+```
+Após editado:
+```sh
 ./fail2ban start
 
 (systemctl start fail2ban)
@@ -53,7 +55,7 @@ rule files:
 
 :wq
 ```
-CRIA REGRA:
+Criar regra:
 ```sh
 $vim alegra-regra.rules:
 
