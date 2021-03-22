@@ -1,5 +1,6 @@
-No packet tracer rodar:
+# Packet Tracer:
 
+## Regras de ACL:
   - 1 Roteador
     - 0/0 - 192.168.1.1
     - 0/1 - 192.168.2.1
@@ -45,3 +46,7 @@ Firewall deny:
   - 192.168.0.2
 
 -----------------------------------------------
+## Configurações de VLAN:
+
+![VLAN PACKET](https://user-images.githubusercontent.com/67568578/112058464-63e0b680-8b39-11eb-9ffd-ee1081807634.png)
+
