@@ -1,8 +1,8 @@
-Configuração NTOP 
+#Configuração NTOP 
 
-Aula 2.7
+## Módulo 2 | Aula 2.7
 
-NTOP é uma ferramento de monitoramento da 4 Camada.
+NTOP é uma ferramenta de monitoramento da 4 Camada.
 
 Instalando:
 
@@ -29,6 +29,6 @@ Abre o IP da máquina:3000 (porta 3000 ).
   > 
   > psswd: admin
 
-requirido trocar a senha
+requerido trocar a senha
 
   
