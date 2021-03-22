@@ -27,6 +27,7 @@ Catálogo de anotação, criação de manuais, apendice de artigos e controle de
 	- Segurança em Camadas
 		- [Configuração PacketTracer](https://github.com/3rdglaz/study/blob/main/InfoSec/PacketTracer.md)	
 		- [Configuração IDS(Suricata) e IPS(Fail2Ban, Sophos)](https://github.com/3rdglaz/study/blob/main/InfoSec/Comandos%20IPS%20e%20IDS.md)
+		- [Configuração NTOP](https://github.com/3rdglaz/study/blob/main/InfoSec/NTOP%20Config.md)
 	- Ferramentas de Segurança
 	- Conceitos Básico Mecanismos de Proteçao
  3. Auditoria e Testes de Invasão - prof. Maximiliano Jacomo
