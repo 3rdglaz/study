@@ -12,6 +12,9 @@ nmap <ip> // scan de portas
 nmap -A <ip> // pega fingerprint, mostra portas aberta
 nmap -Pn <ip> //Host discovery disabled (-Pn). All addresses will be marked 'up' and scan times will be slower.
 
+![nmap](https://user-images.githubusercontent.com/67568578/113479228-2eef3080-9464-11eb-9d1f-aa82afd45ae0.png)
+
+
 no atacado:
 
 iptables -A INPUT -j LOG --log-prefix "SCAN NMAP: "
