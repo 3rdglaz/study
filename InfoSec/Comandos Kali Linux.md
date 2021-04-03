@@ -15,6 +15,8 @@ nmap -Pn <ip> //Host discovery disabled (-Pn). All addresses will be marked 'up'
 nmap -Pn --script vuln <ip> // Checa vulnerabilidades no destino
 
 ![nmap](https://user-images.githubusercontent.com/67568578/113479228-2eef3080-9464-11eb-9d1f-aa82afd45ae0.png)
+![image](https://user-images.githubusercontent.com/67568578/113480720-2f8bc500-946c-11eb-9266-bb7aa44d78cd.png)
+
 
 no atacado:
 
