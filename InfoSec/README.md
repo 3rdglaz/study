@@ -44,6 +44,7 @@ Catálogo de anotação, criação de manuais, apendice de artigos e controle de
 	- Times de Segurança
 	- Ferramentas básicas de Pentesting
 		- [Comandos Kali Linux](https://github.com/3rdglaz/study/blob/main/InfoSec/Comandos%20Kali%20Linux.md)
+		- [Comandos Metasploit (Exploração de falhas)](https://www.offensive-security.com/metasploit-unleashed/msfconsole-commands/)
 	- Análise de Vulnerabilidades
  4. Análise Computacional Forense - prof. Fabrício Lana
 	- Conceitos Básicos
