@@ -1,5 +1,14 @@
 # CiberSegurança
 
+--------------------
+### To - Do
+- [x] DOC IPTables
+- [ ] DOC FAIL2ban
+- [ ] DOC Suricata
+- [ ] DOC NTOP
+
+------------------------
+
 Catálogo de anotação, criação de manuais, apendice de artigos e controle de exercícios.
 
  - [LGDP](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
@@ -22,20 +31,23 @@ Catálogo de anotação, criação de manuais, apendice de artigos e controle de
 	- Aplicações
 		- [Segurança de arquitetura, aplicações Web e APIs](https://github.com/3rdglaz/study/blob/main/InfoSec/Seguran%C3%A7a%20de%20arquitetura%2C%20aplica%C3%A7%C3%B5es%20Web%20e%20APIs.md)
  2. Segurança Infraestrutura - prof. Maximiliano Jacomo
-	- Segurança em Camadas
 	- Defesa em Profundidade
+		- [Defesa em Profundidade - Conceitos](https://github.com/3rdglaz/study/blob/main/InfoSec/Defesa%20em%20Profundidade.md)
+	- Segurança em Camadas
+		- [Configuração PacketTracer](https://github.com/3rdglaz/study/blob/main/InfoSec/PacketTracer.md)	
 	- Ferramentas de Segurança
+		- [Configuração IDS(Suricata) e IPS(Fail2Ban, Sophos)](https://github.com/3rdglaz/study/blob/main/InfoSec/Comandos%20IPS%20e%20IDS.md)
+		- [Configuração NTOP](https://github.com/3rdglaz/study/blob/main/InfoSec/NTOP%20Config.md)
 	- Conceitos Básico Mecanismos de Proteçao
  3. Auditoria e Testes de Invasão - prof. Maximiliano Jacomo
 	- Ethical hacker
 	- Times de Segurança
 	- Ferramentas básicas de Pentesting
+		- [Comandos Kali Linux](https://github.com/3rdglaz/study/blob/main/InfoSec/Comandos%20Kali%20Linux.md)
+		- [Comandos Metasploit (Exploração de falhas)](https://www.offensive-security.com/metasploit-unleashed/msfconsole-commands/)
 	- Análise de Vulnerabilidades
  4. Análise Computacional Forense - prof. Fabrício Lana
 	- Conceitos Básicos
 	- Ferramentas e Técnicas
 	- Forense Computacional
 	- Trabalho investigativo
- 
-  
-
