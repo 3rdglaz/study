@@ -6,6 +6,7 @@ Repositório focado para exercícios, anotações e manuais.~~em construção~~
   1. [VisuAlg](#visualg)
   2. [C](#c)
   3. [Python](#python)
+- [InfoSec](#infosec) 
 -------------
 
 <a name="redes"></a>
@@ -55,3 +56,12 @@ Pequena coletânea de exercícios já feitos
 ### 2.3 Python
 Resumo simples do funcionamento de python
  - [1](https://github.com/3rdglaz/study/blob/main/trabalho%20python.md)
+<a name ="python"></a>
+### 2.4 ShellScript
+Coletâne de scripts simples
+  - [1](https://github.com/3rdglaz/study/tree/main/Scripts)
+------------
+<a name="infosec"></a>
+## 3. InfoSec
+Manual mega simples de infosec, alguns manuais
+ - [1](https://github.com/3rdglaz/study/tree/main/InfoSec)
