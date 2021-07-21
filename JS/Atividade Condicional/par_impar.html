@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Condicionais</title>
+</head>
+<body>
+    <h1>Pedindo numero inteiro</h1>
+    <script>
+            let numero = prompt("Digite um numero: ");
+            if (numero%2==0){
+                document.write(`<h2> É par </h2>`);
+            }else{
+                document.write(`<h2> É impar</h2>`);
+            }
+    </script>
+
+
+<!-- Um amigo me ajudou a fazer usando query selector, achei interessante
+<div>
+    <h1>Par ou Impar</h1>
+    <input id="valor" type="number">
+    <button id="btn">Resultado</button>
+    <h2 id="resultado"></h2>
+</div>
+<script>
+    const valores = document.querySelector('#valor');
+    const btn = document.querySelector('#btn');
+    const printar = document.querySelector('#resultado');
+
+    btn.addEventListener('click', () => {
+        if(valores.value%2 == 0) {
+           return printar.innerHTML = "É Par"
+        } 
+
+        if(valores.value%2 != 0) {
+            return printar.innerHTML = "É impar"
+        }
+    })
+</script>
+-->
+    <hr>
+</body>
+</html>

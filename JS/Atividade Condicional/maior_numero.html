@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Condicionais</title>
+</head>
+<body>
+
+    <h1>Comparando Maior Número</h1>
+    <script>
+        let numeroUm = prompt("Primeiro Número:");
+        let numeroDois = prompt("Segundo Número:");
+        let numeroTres = prompt("Terceiro Número:");
+        
+        if (numeroUm > numeroDois && numeroUm > numeroTres){
+            document.write(`<h2>o numero ${numeroUm} é o maior</h2>`);
+        }
+        else if(numeroDois > numeroTres &&  numeroDois > numeroUm){
+            document.write(`<h2>o numero ${numeroDois} é o maior</h2>`);
+        }
+        else if(numeroTres > numeroUm && numeroTres > numeroDois){
+            document.write(`<h2>o numero ${numeroTres} é o maior</h2>`);
+        }
+        else{
+            document.write(`<h2>os numeros são iguais</h2>`)
+        }
+
+    </script>
+        
+
+    <hr>
+</body>
+</html>

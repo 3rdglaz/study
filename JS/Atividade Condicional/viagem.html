@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Condicionais</title>
+</head>
+<body>
+    <h1>Viagem</h1>
+    <script>
+        let distancia = parseInt(prompt("INSIRA A DISTANCIA:"));
+        if (distancia <= 200){
+            let passagem = distancia*0.7
+            document.write(`<h2>custo R$${passagem}.</h2>`);
+        }
+        else if(distancia > 200 ){
+            let aumento = distancia*0.4
+            document.write(`<h2>custo R$${passagem}.</h2>`);
+        }
+    </script>
+        
+
+    <hr>
+</body>
+</html>

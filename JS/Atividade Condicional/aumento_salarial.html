@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Condicionais</title>
+</head>
+<body>
+
+    <h1>Aumento Salarial</h1>
+    <script>
+        let salario = parseInt(prompt("INSIRA SEU SALARIO:"));
+        if (salario <= 1000){
+            let aumento = salario*0.1
+            document.write(`<h2>aumento de ${aumento}. Total de ${salario + aumento}.</h2>`);
+        }
+        else if(salario > 1000 && salario <= 1500 ){
+            let aumento = salario*0.05
+            document.write(`<h2>aumento de ${aumento}. Total de ${salario + aumento}.</h2>`);
+        }
+        else{
+            document.write(`<h2>Não houve aumento.</h2>`);
+        }
+
+    </script>
+        
+
+    <hr>
+</body>
+</html>
