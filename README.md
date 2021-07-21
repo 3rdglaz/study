@@ -6,6 +6,9 @@ Repositório focado para exercícios, anotações e manuais.~~em construção~~
   1. [VisuAlg](#visualg)
   2. [C](#c)
   3. [Python](#python)
+  4. [ShellScript](#sh)
+  5. [Dart](#dart)
+  6. [Js](#js)
 - [InfoSec](#infosec) 
 -------------
 
@@ -56,12 +59,23 @@ Pequena coletânea de exercícios já feitos
 ### 2.3 Python
 Resumo simples do funcionamento de python
  - [1](https://github.com/3rdglaz/study/blob/main/trabalho%20python.md)
-<a name ="python"></a>
+<a name ="sh"></a>
 ### 2.4 ShellScript
 Coletâne de scripts simples
   - [1](https://github.com/3rdglaz/study/tree/main/Scripts)
+<a name="dart"></a>
+### 2.5 DART
+Estudo da linguagem dart, uma prévia de POO, direcionando-se para o flutter  
+  - [1](https://github.com/3rdglaz/study/tree/main/DART)
+<a name ='js'></a>
+### 2.6 JavaScript
+Excercícios de JS utilizando em web
+  - [1](https://github.com/3rdglaz/study/tree/main/JS)
+
+
 ------------
+
 <a name="infosec"></a>
 ## 3. InfoSec
-Manual mega simples de infosec, alguns manuais
+Manual mega simples de infosec,e mais alguns manuais de ferramentas
  - [1](https://github.com/3rdglaz/study/tree/main/InfoSec)
